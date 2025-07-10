@@ -1,6 +1,8 @@
 ## Hello there 👋
 
-These are my very first steps with git. Please be kind.
+Assistant Professor at the University of Jaén (Spain). Computer Science Department.
+
+- 🌱 I’m currently learning ... These are my very first steps with git. Please be kind.
 
 <!--
 **jschica/jschica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
